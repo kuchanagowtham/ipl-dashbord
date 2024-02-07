@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.latest-bg {
+  background-color: #0f172a;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  height: 400px;
+  width: 90%;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  border-radius: 10px;
+}
+
+.oop-team-img {
+  height: 200px;
+  width: 400px;
+}
+
+.right-container {
+  margin-right: 30px;
+  text-align: right;
+}
+
+.line-text {
+  text-align: left;
+}
+
+.left-container {
+  margin-left: 30px;
+}
